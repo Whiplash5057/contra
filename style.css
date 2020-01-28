@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+button {
+  width: 100px;
+  height: 50px;
+  background-color: black;
+  box-shadow: 2px 2px 5px darkgrey;
+  border-radius: 100px;
+  color: white;
+}
